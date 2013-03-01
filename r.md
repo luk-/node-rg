@@ -13,3 +13,6 @@
 
 # Test:
 `npm test`
+
+#License:
+{{license}}
