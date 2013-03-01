@@ -1,6 +1,6 @@
 {
   "name": "rg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "generate readme docs the way I like",
   "main": "index.js",
   "bin": {
